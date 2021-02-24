@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/test-triumph/static/css/main.17f8d61d.chunk.css",
+    "main.js": "/test-triumph/static/js/main.7e78ea8f.chunk.js",
+    "main.js.map": "/test-triumph/static/js/main.7e78ea8f.chunk.js.map",
+    "runtime-main.js": "/test-triumph/static/js/runtime-main.75ef886e.js",
+    "runtime-main.js.map": "/test-triumph/static/js/runtime-main.75ef886e.js.map",
+    "static/css/2.cfb0d088.chunk.css": "/test-triumph/static/css/2.cfb0d088.chunk.css",
+    "static/js/2.692d1b43.chunk.js": "/test-triumph/static/js/2.692d1b43.chunk.js",
+    "static/js/2.692d1b43.chunk.js.map": "/test-triumph/static/js/2.692d1b43.chunk.js.map",
+    "index.html": "/test-triumph/index.html",
+    "static/css/2.cfb0d088.chunk.css.map": "/test-triumph/static/css/2.cfb0d088.chunk.css.map",
+    "static/css/main.17f8d61d.chunk.css.map": "/test-triumph/static/css/main.17f8d61d.chunk.css.map",
+    "static/js/2.692d1b43.chunk.js.LICENSE.txt": "/test-triumph/static/js/2.692d1b43.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75ef886e.js",
+    "static/css/2.cfb0d088.chunk.css",
+    "static/js/2.692d1b43.chunk.js",
+    "static/css/main.17f8d61d.chunk.css",
+    "static/js/main.7e78ea8f.chunk.js"
+  ]
+}
