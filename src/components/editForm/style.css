@@ -1,0 +1,29 @@
+.wrapper {
+  display: flex;
+  align-content: center;
+  flex-wrap: wrap;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.rowWrapper {
+  display: flex;
+  align-content: space-around;
+  justify-content: space-around;
+  margin: 2px;
+}
+
+.editButton {
+  margin: 5px;
+  border: 1px solid;
+}
+
+.react-custom-trigger {
+  padding: 5px;
+  align-self: center;
+  margin: 8px;
+}
+
+.rc-color-picker-wrap {
+  align-self: center;
+}

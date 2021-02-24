@@ -1,0 +1,32 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.react-custom-trigger {
+  padding: 5px;
+  align-self: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+  align-self: center;
+  background-color: rgb(230, 230, 230);
+  margin: 5px;
+}
+.addButton {
+  margin: 5px;
+}
+
+.rowWrapper {
+  display: flex;
+  align-content: space-around;
+}
+
+label {
+  margin-right: 6px;
+}
